@@ -9,7 +9,7 @@ This is the root repository for all visualizations and assets created during the
 The course aims to provide students an introduction to data visualization design, theory, and practices, as well as hands-on experience with data visualization tools (primarily D3.js). The projects within this repository aim to employ aspects of visual design principles, storytelling with data, and data ethics into both static and interactive visualizations.
 
 ## Course Content
-- Week 01: Designing a basic HTML/CSS webpage
+- [Week 01](week_01/README.md): Data Selfie, Designing a basic HTML/CSS webpage
 - Week 02: 
 - Week 03: 
 - Week 04: 
